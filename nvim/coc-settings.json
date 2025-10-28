@@ -1,0 +1,10 @@
+{
+  "python.lsp": {
+    "command": "pyright",  
+    "args": [],
+    "filetypes": ["python"]
+  },
+  "suggest.autoTrigger": "always",
+  "suggest.noselect": false
+}
+
